@@ -1,24 +1,24 @@
-<table><thead><tr><th>Product Image</th><th>Product Name</th><th>Price</th><th>Rating</th><th>Link</td></tr></thead><tbody><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/616bhfyXimL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            OnePlus Bullets Wireless Z in-Ear Bluetooth Earphones with Mic (Black)
-        
-</td><td>₹ 1,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086CSGV2N/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ku39qVEzL._AC_UL200_SR200,200_.jpg"></td><td>
+<table><thead><tr><th>Product Image</th><th>Product Name</th><th>Price</th><th>Rating</th><th>Link</td></tr></thead><tbody><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ku39qVEzL._AC_UL200_SR200,200_.jpg"></td><td>
 
             boAt Rockerz 255 Sports in-Ear Bluetooth Neckband Earphone with Mic (Active Black)
         
-</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2VJXP4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/719elVA3FvL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2VJXP4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/616bhfyXimL._AC_UL200_SR200,200_.jpg"></td><td>
 
-            boAt Bassheads 100 in Ear Wired Earphones with Mic(Black)
+            OnePlus Bullets Wireless Z in-Ear Bluetooth Earphones with Mic (Black)
         
-</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B071Z8M4KX/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/712Ex7xDndL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086CSGV2N/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/712Ex7xDndL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9A (Midnight Black, 2GB RAM, 32GB Storage)
         
-</td><td>₹ 6,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697N43G/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710fuhtgISL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 6,999.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697N43G/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/719elVA3FvL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt Bassheads 100 in Ear Wired Earphones with Mic(Black)
+        
+</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B071Z8M4KX/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710fuhtgISL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9A (Nature Green, 2GB Ram, 32GB Storage)
         
-</td><td>₹ 6,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08696XB4B/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61DKcGr12OL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 6,999.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08696XB4B/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61DKcGr12OL._AC_UL200_SR200,200_.jpg"></td><td>
 
             OnePlus Bullets Wireless Z Bass Edition (Reverb Red)
         
@@ -26,7 +26,7 @@
 
             Redmi 9A (Sea Blue, 2GB Ram, 32GB Storage)
         
-</td><td>₹ 6,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086978F2L/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ptzNC8r8L._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 6,999.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086978F2L/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ptzNC8r8L._AC_UL200_SR200,200_.jpg"></td><td>
 
             JBL C100SI In-Ear Deep Bass Headphones with Mic (Black)
         
@@ -50,67 +50,67 @@
 
             Redmi 9 (Sporty Orange, 4GB RAM, 64GB Storage) | 3 Months No Cost EMI on BFL
         
-</td><td>₹ 8,999.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08696W3B3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51F5%2BNiGOxL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            realme Buds 2 with Mic for Android Smartphones (Black)
-        
-</td><td>₹ 599.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07XMFDHSG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71lVwl3q-kL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Mi Power Bank 3i 20000mAh (Sandstone Black) Triple Output and Dual Input Port | 18W Fast Charging | Power Delivery
-        
-</td><td>₹ 1,499.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08HV83HL3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/31Z2ee9oYQL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 8,999.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08696W3B3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/31Z2ee9oYQL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Nokia 105 Single SIM (Black)
         
-</td><td>₹ 1,185.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07YYNX5X6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61AxA2YB8kL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,185.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07YYNX5X6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71lVwl3q-kL._AC_UL200_SR200,200_.jpg"></td><td>
 
-            boAt Bassheads 225 in Ear Wired Earphones with Mic(Black)
+            Mi Power Bank 3i 20000mAh (Sandstone Black) Triple Output and Dual Input Port | 18W Fast Charging | Power Delivery
         
-</td><td>₹ 549.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01M9C51T9/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71sxX9aLtnL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,499.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08HV83HL3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71sxX9aLtnL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9A (Sea Blue, 3GB Ram, 32GB Storage)
         
-</td><td>₹ 7,499.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086973W9M/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61BSpkRG7dL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 7,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086973W9M/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61AxA2YB8kL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt Bassheads 225 in Ear Wired Earphones with Mic(Black)
+        
+</td><td>₹ 549.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01M9C51T9/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61BSpkRG7dL._AC_UL200_SR200,200_.jpg"></td><td>
 
             boAt Rockerz 255 Sports in-Ear Bluetooth Neckband Earphone with Mic(Neon)
         
-</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2VJFDW/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ALO0BDcJL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            ELV Desktop Cell Phone Stand Tablet Stand, Aluminum Stand Holder for Mobile Phone (All Size) and Tablet (Up to 10.1 inch) - Black
-        
-</td><td>₹ 149.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0762JYGDP/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61HSxuSHiKL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            pTron Bassbuds in-Ear True Wireless Bluetooth 5.0 Headphones with Hi-Fi Deep Bass, 20Hrs Playtime with Case, Ergonomic Sweatproof Earbuds, Noise Isolation, Voice Assistance & Built-in Mic - (Black)
-        
-</td><td>₹ 1,099.00</td><td>3.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07WSHWNH8/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/711%2BlAQXogL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2VJFDW/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/711%2BlAQXogL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9 Prime (Matte Black, 4GB RAM, 64GB Storage) - Full HD+ Display & AI Quad Camera
         
-</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086982VLG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61KHmLhIJ0L._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086982VLG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61HSxuSHiKL._AC_UL200_SR200,200_.jpg"></td><td>
 
-            boAt Rockerz 255 Sports in-Ear Bluetooth Neckband Earphone with Mic(Raging Red)
+            pTron Bassbuds in-Ear True Wireless Bluetooth 5.0 Headphones with Hi-Fi Deep Bass, 20Hrs Playtime with Case, Ergonomic Sweatproof Earbuds, Noise Isolation, Voice Assistance & Built-in Mic - (Black)
         
-</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2YXNQS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/712Ex7xDndL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,099.00</td><td>3.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07WSHWNH8/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/712Ex7xDndL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9A (Midnight Black, 3GB Ram, 32GB Storage)
         
-</td><td>₹ 7,499.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697KLZP/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710y-ydbeUL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 7,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697KLZP/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710y-ydbeUL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Havells 6A Four-Way Extension Board (White) -1.5 metre Heavy duty wire
         
-</td><td>₹ 279.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00J1YQWC6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61l%2B14s5QVL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 279.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00J1YQWC6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61KHmLhIJ0L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt Rockerz 255 Sports in-Ear Bluetooth Neckband Earphone with Mic(Raging Red)
+        
+</td><td>₹ 1,099.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07C2YXNQS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61l%2B14s5QVL._AC_UL200_SR200,200_.jpg"></td><td>
 
             boAt Bassheads 100 in Ear Wired Earphones with Mic(Furious Red)
         
-</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GQD4K6L/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61sCL37xvlL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black
-        
-</td><td>₹ 349.00</td><td>3.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0746JGVDS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710qEb8G3gL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GQD4K6L/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710qEb8G3gL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Redmi 9 Prime (Mint Green, 4GB RAM, 64GB Storage)- Full HD+ Display & AI Quad Camera
         
-</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697MJDK/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71-Su4Wr0HL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697MJDK/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61sCL37xvlL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            ELV Car Mount Adjustable Car Phone Holder Universal Long Arm, Windshield for Smartphones - Black
+        
+</td><td>₹ 349.00</td><td>3.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0746JGVDS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51Tbwd2PaDL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            All-new Fire TV Stick with Alexa Voice Remote (includes TV controls) | Stream HD Quality Video with Dolby Atmos Audio | 2020 release
+        
+</td><td>₹ 3,999.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07ZZX5ZSW/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/41U4BYG3kWL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Tygot Adjustable Aluminium Alloy Tripod Stand Holder for Mobile Phones & Camera, 360 mm -1050 mm, 1/4 inch Screw + Mobile Holder Bracket
+        
+</td><td>₹ 349.00</td><td>3.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07P8LDZJ5/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71-Su4Wr0HL._AC_UL200_SR200,200_.jpg"></td><td>
 
             Samsung Galaxy M31 (Ocean Blue, 6GB RAM, 128GB Storage)
         
@@ -118,72 +118,76 @@
 
             pTron Bassbuds Lite V2 In-Ear True Wireless Bluetooth 5.0 Headphones with HiFi Deep Bass, Total 20Hrs Playtime, Ergonomic Sweatproof Earbuds, Noise Isolation, Voice Assistance & Built-in Mic - (Black)
         
-</td><td>₹ 799.00</td><td>3.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B081QXQVFM/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61CnyJ-IbML._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Oppo A31 (Fantasy White, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers
-        
-</td><td>₹ 11,990.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08444SXZ6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/41U4BYG3kWL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Tygot Adjustable Aluminium Alloy Tripod Stand Holder for Mobile Phones & Camera, 360 mm -1050 mm, 1/4 inch Screw + Mobile Holder Bracket
-        
-</td><td>₹ 349.00</td><td>3.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07P8LDZJ5/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61JSjyYssYL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 799.00</td><td>3.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B081QXQVFM/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61JSjyYssYL._AC_UL200_SR200,200_.jpg"></td><td>
 
             WeCool Moonwalk M1 True Wireless Earbuds (TWS) IPX 5 and Digital Display Charging Case, Bluetooth Earphones with Mic for Calls and HD Stereo Music
         
-</td><td>₹ 899.00</td><td>3.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08BY1G7N3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ihz46SLOL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            boAt Rockerz 450 Bluetooth On-Ear Headphone with Mic(Luscious Black)
-        
-</td><td>₹ 1,499.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07PR1CL3S/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51Tbwd2PaDL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            All-new Fire TV Stick with Alexa Voice Remote (includes TV controls) | Stream HD Quality Video with Dolby Atmos Audio | 2020 release
-        
-</td><td>₹ 3,999.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07ZZX5ZSW/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ATwiAZpIL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 899.00</td><td>3.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08BY1G7N3/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ATwiAZpIL._AC_UL200_SR200,200_.jpg"></td><td>
 
             realme Buds Classic Wired Earphones with HD Microphone White
         
-</td><td>₹ 299.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08G295KSY/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/719sf-DtkvL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 299.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08G295KSY/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61CnyJ-IbML._AC_UL200_SR200,200_.jpg"></td><td>
 
-            boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)
+            Oppo A31 (Fantasy White, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers
         
-</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GPXXNNG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81pzsRpE5GL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 11,990.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08444SXZ6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ihz46SLOL._AC_UL200_SR200,200_.jpg"></td><td>
 
-            Redmi Note 9 Pro (Aurora Blue, 4GB RAM, 64GB Storage) - Latest 8nm Snapdragon 720G & Alexa Hands-Free
+            boAt Rockerz 450 Bluetooth On-Ear Headphone with Mic(Luscious Black)
         
-</td><td>₹ 13,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B077Q7GW9V/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71QLvGIAq5L._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Samsung Galaxy M21 (Raven Black, 4GB RAM, 64GB Storage)
-        
-</td><td>₹ 13,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07HGH8D2R/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71r6AArbBBL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            boAt Bassheads 900 On Ear Wired Headphones(Pearl White)
-        
-</td><td>₹ 990.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B078W65FJ7/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81o1rDu5FZL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Samsung Galaxy M01 (Blue, 3GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers
-        
-</td><td>₹ 7,999.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086KCDGTQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61Ci1dAFyGL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Xiaomi Redmi Hi-Resolution Audio Wired Earphone with Mic  (Black, in The Ear)
-        
-</td><td>₹ 399.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08FMLCRXM/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71GqB5VJFgL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            Redmi 9 Prime (Sunrise Flare, 4GB RAM, 64GB Storage)- Full HD+ Display & AI Quad Camera
-        
-</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697WT79/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51ISBkuNWZL._AC_UL200_SR200,200_.jpg"></td><td>
-
-            All-new Fire TV Stick Lite with Alexa Voice Remote Lite | Stream HD Quality Video | No power and volume buttons | 2020 release
-        
-</td><td>₹ 2,999.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07ZZW86G4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/31yQB88r8kL._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 1,499.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07PR1CL3S/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/31yQB88r8kL._AC_UL200_SR200,200_.jpg"></td><td>
 
             STRIFF Wall Mount Phone Holder with Adhesive Strips, Charging Holder Compatible with iPhone, Smartphone and Mini Tablet(Pack of 1)
         
-</td><td>₹ 99.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07H1S7XW8/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ve2XaWb7L._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 99.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07H1S7XW8/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/719sf-DtkvL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)
+        
+</td><td>₹ 379.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GPXXNNG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71QLvGIAq5L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Samsung Galaxy M21 (Raven Black, 4GB RAM, 64GB Storage)
+        
+</td><td>₹ 13,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07HGH8D2R/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71FPmXaDfbL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Oppo A52 (Twilight Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers
+        
+</td><td>₹ 13,990.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086KCDPMR/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81pzsRpE5GL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Redmi Note 9 Pro (Aurora Blue, 4GB RAM, 64GB Storage) - Latest 8nm Snapdragon 720G & Alexa Hands-Free
+        
+</td><td>₹ 13,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B077Q7GW9V/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81o1rDu5FZL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Samsung Galaxy M01 (Blue, 3GB RAM, 32GB Storage) with No Cost EMI/Additional Exchange Offers
+        
+</td><td>₹ 7,999.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B086KCDGTQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51ISBkuNWZL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            All-new Fire TV Stick Lite with Alexa Voice Remote Lite | Stream HD Quality Video | No power and volume buttons | 2020 release
+        
+</td><td>₹ 2,999.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07ZZW86G4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710fuhtgISL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Redmi 9A (Nature Green, 3GB Ram, 32GB Storage)
+        
+</td><td>₹ 7,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697N43M/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71GqB5VJFgL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Redmi 9 Prime (Sunrise Flare, 4GB RAM, 64GB Storage)- Full HD+ Display & AI Quad Camera
+        
+</td><td>₹ 9,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08697WT79/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ot29-WomL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt A 350 Type C Cable 1.5m (Black)
+        
+</td><td>₹ 299.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0825D8KNS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61Ci1dAFyGL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Xiaomi Redmi Hi-Resolution Audio Wired Earphone with Mic  (Black, in The Ear)
+        
+</td><td>₹ 399.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08FMLCRXM/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ve2XaWb7L._AC_UL200_SR200,200_.jpg"></td><td>
 
             TP-Link Archer C6 Gigabit MU-MIMO Wireless Router, Dual Band 1200 Mbps Wi-Fi Speed, 5 Gigabit Ports, 4 External Antennas and 1 Internal Antenna WiFi Coverage with Access Point Mode, Qualcomm Chipset
         
-</td><td>₹ 2,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GVR9TG7/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/617NtexaW2L._AC_UL200_SR200,200_.jpg"></td><td>
+</td><td>₹ 2,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GVR9TG7/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/7123d26rFxL._AC_UL200_SR200,200_.jpg"></td><td>
 
-            SanDisk 128GB Class 10 microSDXC Memory Card with Adapter (SDSQUAR-128G-GN6MA)
+            realme Buds Classic Wired Earphones with HD Microphone Black
         
-</td><td>₹ 1,315.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B073JYC4XM/?tag=ravi18-21" target="_blank">Open</a></td></tr></tbody></table>
+</td><td>₹ 349.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08G28Z33M/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71r6AArbBBL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            boAt Bassheads 900 On Ear Wired Headphones(Pearl White)
+        
+</td><td>₹ 749.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B078W65FJ7/?tag=ravi18-21" target="_blank">Open</a></td></tr></tbody></table>
