@@ -1,0 +1,201 @@
+<table><thead><tr><th>Product Image</th><th>Product Name</th><th>Price</th><th>Rating</th><th>Link</td></tr></thead><tbody><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61ve2XaWb7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link Archer C6 Gigabit MU-MIMO Wireless Router, Dual Band 1200 Mbps Wi-Fi Speed, 5 Gigabit Ports, 4 External Antennas and 1 Internal Antenna WiFi Coverage with Access Point Mode, Qualcomm Chipset
+        
+</td><td>₹ 2,499.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07GVR9TG7/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51k2mS2m4kL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link USB Bluetooth Adapter for PC 4.0 Bluetooth Dongle Receiver Support Windows 10/8.1/8/7/XP for Desktop, Laptop, Mouse, Keyboard, Printers, Headsets, Speakers, PS4/ Xbox Controllers (UB400)
+        
+</td><td>₹ 419.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07NQ5YGDW/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61aflcZgumL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            HP FD236W 32GB USB 2.0 Pen Drive (Gray)
+        
+</td><td>₹ 369.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01L8ZL3X8/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51Kh5lN0h3L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Lenovo 300 Wired USB Mouse, GX30M39704
+        
+</td><td>₹ 279.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B073BRXPZX/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71laWT3LqBL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            MemeHo® Smart Multi-Purpose Laptop Table with Dock Stand/Study Table/Bed Table/Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs/Engineered Wood (Black)
+        
+</td><td>₹ 799.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07TR5HSR9/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/31N9ADI8c7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link TL-WA850RE N300 Wireless Range Extender, Broadband/Wi-Fi Extender, Wi-Fi Booster/Hotspot with 1 Ethernet Port, Plug and Play, Built-in Access Point Mode
+        
+</td><td>₹ 1,399.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00A0VCJPI/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61zODtv7sfL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            GIZGA Multi-Angle Portable & Universal Stand 7-10 inch Black Cradle for Tablets
+        
+</td><td>₹ 179.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B017PDR9N0/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71bV203ASmL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk Ultra Dual 32GB USB 3.0 OTG Pen Drive
+        
+</td><td>₹ 475.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01N5KHFG9/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/417aHoqozHL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            JioFi JDR740 (Dongle) 150Mbps Wireless 4G Portable Router
+        
+</td><td>₹ 1,999.00</td><td>3.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08DRR5D14/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71xuP3mbiRL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Mi USB Type-C Cable
+        
+</td><td>₹ 229.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08DDRGWTJ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/319qHehZi8L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Logitech M221 Wireless Mouse, Silent Buttons, 2.4 GHz with USB Mini Receiver, 1000 DPI Optical Tracking, 18-Month Battery Life, Ambidextrous PC/Mac/Laptop - Charcoal Grey
+        
+</td><td>₹ 699.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01M72LILF/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71p2W9Ykh7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Seagate Expansion Portable 1.5 TB External Hard Drive HDD – USB 3.0 for PC Laptop and 3-Year Rescue Services (STEA1500400)
+        
+</td><td>₹ 4,099.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B007IREFE0/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/41fQ5NSkEWL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-link N300 WiFi Wireless Router TL-WR845N | 300Mbps Wi-Fi Speed | Three 5dBi high gain Antennas | IPv6 Compatible | AP/RE/WISP Mode | Parental Control | Guest Network
+        
+</td><td>₹ 1,019.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01HGCLUH6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/616dhBKyaFL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Gizga Essentials GZ-CK-104 Professional 6-in-1 Cleaning Kit (Air Blower, Cotton Swabs, Suede + Plush Micro-Fiber Cloth, Brush,Cleaning Solution)
+        
+</td><td>₹ 251.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01IBVCUNO/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51v6f6TFsAL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link TL-WN823N 300Mbps Mini Wireless-N USB Adapter (Black)
+        
+</td><td>₹ 499.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0088TKTY2/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61Mx3gDrY7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Mi Micro USB Cable (120cm, USB Type A, Black)
+        
+</td><td>₹ 229.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07H4X1SCK/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81shebPwe0L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+        
+</td><td>₹ 389.00</td><td>3.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B077T3BG5L/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51kdFjyPRAL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black
+        
+</td><td>₹ 549.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01J0XWYKQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51xNf1iX23L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Zinq Technologies 818W Wireless Mouse with 1600DPI for Laptop and Desktop (Black)
+        
+</td><td>₹ 199.00</td><td>3.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08CT9Z6BQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71p11135VSL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            AmazonBasics Nylon Braided USB A to Lightning Compatible Cable - Apple MFi Certified - Dark Grey (3 Feet/0.9 Meter)
+        
+</td><td>₹ 799.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01F9RGJJO/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51ogrgGK%2B9L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Lenovo 300 Wireless Compact Mouse (GX30K79401)
+        
+</td><td>₹ 629.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01EFVDDH6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71XmEoZ7p-L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Logitech M235 Wireless Mouse, 2.4 GHz with USB Unifying Receiver, 1000 DPI Optical Tracking, 12 Month Life Battery, Compatible with Windows, Mac, Chromebook/PC/Laptop - Black/Grey
+        
+</td><td>₹ 749.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B004IO5BMQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61dPLkN4poL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Crucial BX500 240GB 3D NAND SATA 2.5-inch SSD (CT240BX500SSD1)
+        
+</td><td>₹ 2,375.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07G3YNLJB/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81tioCUVf4L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Zebronics Zeb-Transformer-M Optical USB Gaming Mouse with LED Effect(Black)
+        
+</td><td>₹ 462.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0819HZPXL/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/513Eb0cHjAL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            RESONATE RouterUPS CRU5V2A - UPS (Power Backup) for Wi-Fi Router, ONT Device, CCTV, Set Top Box
+        
+</td><td>₹ 1,999.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B017NC27H6/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61PVIzk6ALL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk Cruzer Blade SDCZ50-016G-135 16GB USB 2.0 Pen Drive
+        
+</td><td>₹ 299.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B002U1ZBG0/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/711dC%2BrtdpL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            HP 680 Tri-color Original Ink Advantage Cartridge
+        
+</td><td>₹ 792.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B014AL6Y7W/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/41dqZOR-GwL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Cosmic Byte GS410 Headphones with Mic and for PS4, Xbox One, Laptop, PC, iPhone and Android Phones (Black/Blue)
+        
+</td><td>₹ 999.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B074123WSD/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71Wub9idS%2BL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            HP 678 Black Ink Advantage Cartridge (CZ107AA)
+        
+</td><td>₹ 677.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B009DD8TJ4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61IWe1ZAgcL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Logitech H110 Wired headset, Stereo Headphones with noise-cancelling Microphone,3.5-mm Dual Audio Jack, PC/Mac/Laptop- Grey
+        
+</td><td>₹ 729.00</td><td>3.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B003H4QPJQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51QMHdyFiOL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link TL-WR841N 300Mbps Wireless N Cable, 4 Fast LAN Ports, Easy Setup, WPS Button, Supports Parent Control, Guest Wi-Fi Router
+        
+</td><td>₹ 939.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B001FWYGJS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51nCAeYm%2B7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Zinq Technologies Cool Slate Dual Fan Cooling Pad for Notebook/Laptop with Dual USB Port(Black)
+        
+</td><td>₹ 899.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07TYPTCNV/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81YWBcTx14L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk SDDD3-032G-I35GW Ultra Dual 32GB USB 3.0 OTG Pen Drive (Gold)
+        
+</td><td>₹ 489.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0734VLDTC/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71XhIekR2GL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk Ultra Dual 64GB USB 3.0 OTG Pen Drive (Gold)
+        
+</td><td>₹ 799.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0734W8FGG/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/41lBSA6oJvL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Quantum QHM6633 4 Port Hi-Speed USB Hub (Multicolor)
+        
+</td><td>₹ 210.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00MFCT3GS/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/516msbHJPRL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link AC750 Wifi Range Extender | Up to 750Mbps | Dual Band WiFi Extender, Repeater, Wifi Signal Booster, Access Point| Easy Set-Up | Extends Wifi to Smart Home & Alexa Devices (RE200)
+        
+</td><td>₹ 1,619.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00KXULGJQ/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61G5-hNFMYL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)
+        
+</td><td>₹ 299.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01J1CFO5I/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61v%2BtaI5jvL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Logitech MK270r Wireless Keyboard and Mouse Combo for Windows, 2.4 GHz Wireless, Compact Wireless Mouse, 8 Multimedia & Shortcut Keys, 2-Year Battery Life, PC/Laptop- Black
+        
+</td><td>₹ 1,499.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B00CEQEGPI/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81grtcmxsyL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Zebronics Zeb-Warrior 2.0 Multimedia Speaker with Aux Connectivity,USB Powered and Volume Control
+        
+</td><td>₹ 699.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07ZZBYWKF/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61hZiAKu59L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Mi 2-in-1 USB Cable (Micro USB to Type-C) 100cm
+        
+</td><td>₹ 269.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07XDRVFMC/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51I-vqDzpJL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Portronics POR-015 Toad 11 Wireless Mouse with 2.4GHz Technology (Blue)
+        
+</td><td>₹ 349.00</td><td>3.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07PT6Q376/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61Ne2MBo6KL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            HP 200 Wireless Mouse (Black)
+        
+</td><td>₹ 715.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B06Y34RQ6Y/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81YDsn4xm9L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            HP 680 Ink Cartridges Combo Pack (1 Black+ 1 tri-Color Cartridge)
+        
+</td><td>₹ 1,584.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08BTCBSW4/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61qpkPzbEEL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            pTron Boom Ultima 4D Dual Driver, in-Ear Gaming Wired Headphones with in-line Mic, Volume Control & Passive Noise Cancelling Boom 3 Earphones - (Dark Blue)
+        
+</td><td>₹ 599.00</td><td>3.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08D75R3Z1/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51jCNA84pyL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link Archer C50 AC1200 Dual Band Wireless Cable Router, Wi-Fi Speed Up to 867 Mbps/5 GHz + 300 Mbps/2.4 GHz, Supports Parental Control, Guest Wi-Fi, VPN
+        
+</td><td>₹ 1,799.00</td><td>4.0 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B071RSD473/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71bV203ASmL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk Ultra Dual 64GB USB 3.0 OTG Pen Drive
+        
+</td><td>₹ 729.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01N6LU1VF/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81VXoI0y%2BkL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Dell MS116 Optical Mouse
+        
+</td><td>₹ 379.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B012DT5U96/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81u47A2BChL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Western Digital Elements 1.5 TB Portable External Hard Drive (Black)
+        
+</td><td>₹ 4,239.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B06XDKWLJH/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51ax8peHlPL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            TP-Link AC1200 Archer A6 Smart WiFi, 5GHz Gigabit Dual Band MU-MIMO Wireless Internet Router, Long Range Coverage by 4 Antennas, Qualcomm Chipset
+        
+</td><td>₹ 2,129.00</td><td>4.1 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07W9KYT62/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71qOWNxv4jL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            SanDisk Ultra Dual Drive Go Type C Pendrive for Mobile 64GB, 5Y - SDDDC3-064G-I35
+        
+</td><td>₹ 919.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B0819ZJ44K/?tag=ravi18-21" target="_blank">Open</a></td></tr></tbody></table>
