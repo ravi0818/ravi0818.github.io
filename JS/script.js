@@ -39,6 +39,12 @@ $( document ).ready(function(){
 
 //----------------------load-------------------------
 $(function(){
+  $("#logo").load("Snippets/logo.html"); 
+});
+$(function(){
+  $("#list").load("Snippets/list.html"); 
+});
+$(function(){
 	$(".data1").load("FetchData/amzBE.txt"); 
 });
 $(function(){

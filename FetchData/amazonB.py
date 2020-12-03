@@ -49,7 +49,7 @@ with open("amzBE.txt","w",encoding="utf-8",newline="") as dataFile:
 	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td><b>',prices[x],'</b></td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
@@ -100,7 +100,7 @@ with open("amzBH.txt","w",encoding="utf-8",newline="") as dataFile:
 	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td><b>',prices[x],'</b></td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
@@ -151,7 +151,7 @@ with open("amzBCA.txt","w",encoding="utf-8",newline="") as dataFile:
 	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td><b>',prices[x],'</b></td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
@@ -204,7 +204,7 @@ with open("amzBB.txt","w",encoding="utf-8",newline="") as dataFile:
 	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td><b>',prices[x],'</b></td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
