@@ -25,16 +25,23 @@ with open("amzBE.txt","w",encoding="utf-8",newline="") as dataFile:
 		price=a.find('span',class_='p13n-sc-price')
 		rating=a.find('span',class_='a-icon-alt')
 		#----------------------
-		if price is not None:
-			images.append(image)
-			prices.append(price.text)
-			link=name.get('href')
+		if name is not None:
 			products.append(name.text)
-			ratings.append(rating.text)
+			images.append(image)
+			link=name.get('href')
 			link=link.split("dp/")
 			link=link[1]
 			link=link[:10]
 			links.append("https://www.amazon.in/gp/product/"+link+"/?tag=ravi18-21")
+			if price is None:
+				prices.append("NA")
+			else:
+				prices.append(price.text)
+			#
+			if rating is None:
+				ratings.append("NA")
+			else:
+				ratings.append(rating.text)
 	#----------------------
 	print(len(products))
 	print(len(prices))
@@ -69,16 +76,23 @@ with open("amzBH.txt","w",encoding="utf-8",newline="") as dataFile:
 		price=a.find('span',class_='p13n-sc-price')
 		rating=a.find('span',class_='a-icon-alt')
 		#----------------------
-		if price is not None:
-			images.append(image)
-			prices.append(price.text)
-			link=name.get('href')
+		if name is not None:
 			products.append(name.text)
-			ratings.append(rating.text)
+			images.append(image)
+			link=name.get('href')
 			link=link.split("dp/")
 			link=link[1]
 			link=link[:10]
 			links.append("https://www.amazon.in/gp/product/"+link+"/?tag=ravi18-21")
+			if price is None:
+				prices.append("NA")
+			else:
+				prices.append(price.text)
+			#
+			if rating is None:
+				ratings.append("NA")
+			else:
+				ratings.append(rating.text)
 	#----------------------
 	print(len(products))
 	print(len(prices))
@@ -112,16 +126,23 @@ with open("amzBCA.txt","w",encoding="utf-8",newline="") as dataFile:
 		price=a.find('span',class_='p13n-sc-price')
 		rating=a.find('span',class_='a-icon-alt')
 		#----------------------
-		if price is not None:
-			images.append(image)
-			prices.append(price.text)
-			link=name.get('href')
+		if name is not None:
 			products.append(name.text)
-			ratings.append(rating.text)
+			images.append(image)
+			link=name.get('href')
 			link=link.split("dp/")
 			link=link[1]
 			link=link[:10]
 			links.append("https://www.amazon.in/gp/product/"+link+"/?tag=ravi18-21")
+			if price is None:
+				prices.append("NA")
+			else:
+				prices.append(price.text)
+			#
+			if rating is None:
+				ratings.append("NA")
+			else:
+				ratings.append(rating.text)
 	#----------------------
 	print(len(products))
 	print(len(prices))
@@ -157,20 +178,23 @@ with open("amzBB.txt","w",encoding="utf-8",newline="") as dataFile:
 		price=a.find('span',class_='p13n-sc-price')
 		rating=a.find('span',class_='a-icon-alt')
 		#----------------------
-		if price is not None:
-			images.append(image)
-			prices.append(price.text)
-			link=name.get('href')
+		if name is not None:
 			products.append(name.text)
-			if rating is None:
-				ratings.append("NA")
-			else:
-				ratings.append(rating.text)
-			#----------------------------------
+			images.append(image)
+			link=name.get('href')
 			link=link.split("dp/")
 			link=link[1]
 			link=link[:10]
 			links.append("https://www.amazon.in/gp/product/"+link+"/?tag=ravi18-21")
+			if price is None:
+				prices.append("NA")
+			else:
+				prices.append(price.text)
+			#
+			if rating is None:
+				ratings.append("NA")
+			else:
+				ratings.append(rating.text)
 	#----------------------
 	print(len(products))
 	print(len(prices))
