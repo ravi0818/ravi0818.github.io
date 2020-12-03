@@ -46,10 +46,10 @@ with open("amzBE.txt","w",encoding="utf-8",newline="") as dataFile:
 	print(len(products))
 	print(len(prices))
 	dataFile.write('<table>')
-	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th>','<th>Link</td></tr></thead>']))
+	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>',products[x],'</td><td>',prices[x],'</td><td>',ratings[x],'</td><td><a href="',links[x],'" target="_blank">Open</a></td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
@@ -97,13 +97,14 @@ with open("amzBH.txt","w",encoding="utf-8",newline="") as dataFile:
 	print(len(products))
 	print(len(prices))
 	dataFile.write('<table>')
-	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th>','<th>Link</td></tr></thead>']))
+	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>',products[x],'</td><td>',prices[x],'</td><td>',ratings[x],'</td><td><a href="',links[x],'" target="_blank">Open</a></td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
+
 #---------------------------------amzBCA.txt----------------------------
 url="https://www.amazon.in/gp/bestsellers/computers/ref=zg_bs_nav_0"
 r=requests.get(url)
@@ -147,13 +148,14 @@ with open("amzBCA.txt","w",encoding="utf-8",newline="") as dataFile:
 	print(len(products))
 	print(len(prices))
 	dataFile.write('<table>')
-	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th>','<th>Link</td></tr></thead>']))
+	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>',products[x],'</td><td>',prices[x],'</td><td>',ratings[x],'</td><td><a href="',links[x],'" target="_blank">Open</a></td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
+
 
 
 #---------------------------------amzBB.txt----------------------------
@@ -199,10 +201,10 @@ with open("amzBB.txt","w",encoding="utf-8",newline="") as dataFile:
 	print(len(products))
 	print(len(prices))
 	dataFile.write('<table>')
-	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th>','<th>Link</td></tr></thead>']))
+	dataFile.write("".join(['<thead><tr><th>Product Image</th>','<th>Product Name</th>','<th>Price</th>','<th>Rating</th></tr></thead>']))
 	dataFile.write('<tbody>')
 	for x in range(len(products)):
-		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>',products[x],'</td><td>',prices[x],'</td><td>',ratings[x],'</td><td><a href="',links[x],'" target="_blank">Open</a></td></tr>']))
+		dataFile.write("".join(['<tr><td><img src="',images[x],'"></td><td>','<a href="',links[x],'" target="_blank">',products[x],'</a>','</td><td>',prices[x],'</td><td>',ratings[x],'</td></tr>']))
 	#---------------------------
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')

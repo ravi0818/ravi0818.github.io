@@ -86,14 +86,16 @@ button:hover{
 .img-thumbnail:hover{
 	background-color: red;
 }
-
+.container-fluid{
+	margin: 0;
+}
 /*For Table*/
 .table-wrapper{
 	/*overflow-y: scroll;
 	height: 1000px;*/
 	background: CadetBlue;
+	width: 100%;
 }
-
 .table-wrapper th{
 	position: sticky;
 	top: 0;
@@ -106,13 +108,18 @@ table{
 
 th{
 	background: #DDD;
+	white-space: nowrap;
 }
 
 td,th{
 	padding: 10px;
 	text-align: center;
 }
+
 .heading{
 	text-align: center;
 	background: grey;
+}
+a{
+	color: black;
 }
