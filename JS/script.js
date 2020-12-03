@@ -39,16 +39,16 @@ $( document ).ready(function(){
 
 //----------------------load-------------------------
 $(function(){
-	$(".data1").load("amzBE.txt"); 
+	$(".data1").load("FetchData/amzBE.txt"); 
 });
 $(function(){
-	$(".data2").load("amzBCA.txt"); 
+	$(".data2").load("FetchData/amzBCA.txt"); 
 });
 $(function(){
-	$(".data3").load("amzBH.txt"); 
+	$(".data3").load("FetchData/amzBH.txt"); 
 });
 $(function(){
-	$(".data4").load("amzBB.txt"); 
+	$(".data4").load("FetchData/amzBB.txt"); 
 });
 $(function(){
 	$(".data5").load(); 
