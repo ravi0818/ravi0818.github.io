@@ -48,7 +48,7 @@ $(function(){
 	$(".data3").load("amzBH.txt"); 
 });
 $(function(){
-	$(".data4").load(); 
+	$(".data4").load("amzBB.txt"); 
 });
 $(function(){
 	$(".data5").load(); 

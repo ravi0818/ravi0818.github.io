@@ -1,0 +1,201 @@
+<table><thead><tr><th>Product Image</th><th>Product Name</th><th>Price</th><th>Rating</th><th>Link</td></tr></thead><tbody><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71Pq5G9%2BXgL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            My First Library: Boxset of 10 Board Books for Kids
+        
+</td><td>₹ 399.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9387779262/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81l3rZK4lnL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Ikigai: The Japanese secret to a long and happy life
+        
+</td><td>₹ 365.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/178633089X/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81s6DUyQCZL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Think Like a Monk
+        
+</td><td>₹ 367.00</td><td>4.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0008386595/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61r-WomIz0L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            One Arranged Murder
+        
+</td><td>₹ 143.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/1542094135/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71frknp-CWL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            World’s Greatest Books For Personal Growth & Wealth (Set of 4 Books): Perfect Motivational Gift Set
+        
+</td><td>₹ 299.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9389432014/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71aFt4%2BOTOL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Alchemist
+        
+</td><td>₹ 189.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8172234988/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61MrRA4qE0L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Indian Polity - For Civil Services and Other State Examinations | 6th Edition
+        
+</td><td>₹ 511.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B07Y3CJJCR/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91%2BNBrXG-PL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            A Promised Land
+        
+</td><td>₹ 1,517.00</td><td>4.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0241491517/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91sJmZFOIQL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Word Power Made Easy
+        
+</td><td>₹ 132.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8183071007/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81i3nm3M8XL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Quantitative Aptitude for Competitive Examinations
+        
+</td><td>₹ 456.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9352534026/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91VokXkn8hL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!
+        
+</td><td>₹ 260.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/1612680194/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91%2Bt0Di07FL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Intelligent Investor (English) Paperback – 2013
+        
+</td><td>₹ 381.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0062312685/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91TbtzEEL%2BL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Refreshing Mandala - Colouring Book for Adults Book 1
+        
+</td><td>₹ 175.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9350897601/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/A17fPOnXNmL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            General Knowledge
+        
+</td><td>₹ 159.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9384761540/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81k3%2B%2BL3AdL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Oxford Student Atlas for India - Third Edition
+        
+</td><td>₹ 217.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0190123281/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/710jnzKlDTL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Attitude Is Everything: Change Your Attitude ... Change Your Life!
+        
+</td><td>₹ 151.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9351772071/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51AYRDl88KL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Kiran Science Numericals Physics and Chemistry 2300+ Objective Questions Railway Group D , NTPC ,ALP ,JE(Hindi Medium)(3146)
+        
+</td><td>₹ 108.00</td><td>3.9 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B08P57ZLW1/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91sOjvWTmIL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            A Brief History of Modern India (2019-2020 Edition) by  Spectrum Books
+        
+</td><td>₹ 336.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8179307212/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71fnmE5cQwL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            General Knowledge 2021
+        
+</td><td>₹ 30.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9324195395/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91L-Nn8y6IL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Complete OPOS Cookbook: One-Pot Meal Plans Ready in 10 Minutes
+        
+</td><td>₹ 359.00</td><td>NA</td><td><a href="https://www.amazon.in/gp/product/9353579872/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61nWWVcL3AL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Eating in the Age of Dieting: A collection of notes and essays from over the years
+        
+</td><td>₹ 321.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9389648564/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91xAvyJmUUL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Grandma's Bag of Stories
+        
+</td><td>₹ 243.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0143333623/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81cpDaCJJCL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Psychology of Money
+        
+</td><td>₹ 335.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9390166268/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71pjaEBslxL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Archer
+        
+</td><td>₹ 145.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0670095206/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91%2B36GLYWYL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Very First Sight Words Sentences Level - 1
+        
+</td><td>₹ 126.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9387971996/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91eDZV4thoL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Picture Books Collection for Early Learning (Set of 12)
+        
+</td><td>₹ 225.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/B01M0QGF0P/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/711hfHGE%2BcL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Great Stories for Children
+        
+</td><td>₹ 132.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8129118920/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81gTwYAhU7L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Power of your Subconscious Mind
+        
+</td><td>₹ 90.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8192910962/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81DlGkI0rbL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            My First Book of Patterns Pencil Control: Patterns Practice book for kids (Pattern Writing)
+        
+</td><td>₹ 96.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9387779319/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71fsQxIlggL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Sapiens: A Brief History of Humankind
+        
+</td><td>₹ 299.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0099590085/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81nBbBqoAGL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            26 Years UPSC IAS/ IPS Prelims Topic-wise Solved Papers 1 & 2 (1995 - 2020) 11th Edition
+        
+</td><td>₹ 357.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8194815010/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81MajaVJsCL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Writing Practice Boxset: Pack of 4 Books (Writing Fun: Write and Practice Capital Letters, Small Letters, Patterns and Numbers 1 to 10)
+        
+</td><td>₹ 189.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9387779777/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51Zj0W-zVTL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Objective NCERT at your FINGERTIPS for NEET-AIIMS - Biology
+        
+</td><td>₹ 614.00</td><td>4.7 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9389971241/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81nPcWCYhkL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Diary of a Wimpy Kid: The Deep End (Book 15)
+        
+</td><td>₹ 410.00</td><td>4.7 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0241424143/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51oHUvYzbsL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Theory of Everything
+        
+</td><td>₹ 159.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8179925919/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71JZ0neAP1L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Blue Umbrella
+        
+</td><td>₹ 76.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8171673406/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71AdHA%2BqqwL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Think and Grow Rich
+        
+</td><td>₹ 172.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8192910911/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/8170Bj%2BbSOL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Power of Your Subconscious Mind
+        
+</td><td>₹ 119.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8172345666/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91SdNr8q10L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            A Modern Approach to Verbal & Non-Verbal Reasoning (2 Colour Edition)
+        
+</td><td>₹ 670.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9352832167/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71V1ikEXJsL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The Complete Novels of Sherlock Holmes
+        
+</td><td>₹ 142.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8175994312/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91GHzXpU2cL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            101 Panchatantra Stories
+        
+</td><td>₹ 119.00</td><td>4.3 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/938797149X/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/61dUu4NucYL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            NTA UGC NET/SET/JRF: Teaching & Research Aptitude Paper 1 | By Pearson
+        
+</td><td>₹ 321.00</td><td>4.5 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9353944651/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81D6Qx%2BlK1L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Rich Dad Poor Dad - 20th Anniversary Edition (Hindi)
+        
+</td><td>₹ 157.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/8186775218/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81l8KHc7%2BtL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            My Activity- ABC Colouring Book
+        
+</td><td>₹ 80.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9350898853/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91DBkHW1%2BtL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Bhagavad Gita: Yatharoop (Hindi)
+        
+</td><td>₹ 194.00</td><td>4.8 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/938598618X/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/51SDCWAlpIL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Objective General English
+        
+</td><td>₹ 223.00</td><td>4.2 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9351768449/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71reBu3iJ6L._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Wren & Martin High School English Grammar and Composition Book (Regular Edition)
+        
+</td><td>₹ 290.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9352530144/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/81yxRLBMmkL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Life's Amazing Secrets: How to Find Balance and Purpose in Your Life
+        
+</td><td>₹ 246.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/0143442295/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/91JHJgPh6LL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            Atomic Habits: The life-changing million copy bestseller
+        
+</td><td>₹ 620.00</td><td>4.6 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/1847941834/?tag=ravi18-21" target="_blank">Open</a></td></tr><tr><td><img src="https://images-eu.ssl-images-amazon.com/images/I/71eijJe2ntL._AC_UL200_SR200,200_.jpg"></td><td>
+
+            The 5 AM Club: Own Your Morning, Elevate Your Life
+        
+</td><td>₹ 247.00</td><td>4.4 out of 5 stars</td><td><a href="https://www.amazon.in/gp/product/9387944891/?tag=ravi18-21" target="_blank">Open</a></td></tr></tbody></table>
