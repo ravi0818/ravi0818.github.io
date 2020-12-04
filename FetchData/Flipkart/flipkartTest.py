@@ -47,10 +47,9 @@ with open("FBSOTW.txt","w",encoding="utf-8",newline="") as dataFile:
 	for x in range(len(products)):
 		dataFile.write("".join(['<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="',links[x],'" target="_blank"><div><img class="center" src="',images[x],'"></div><section class="center">',products[x],'<br>',details[x],'<br>',prices[x],'</section></a></div></div>']))
 #----
+print("Done")
+dataFile.close()
 driver.quit()
-
-
-
 
 
 
