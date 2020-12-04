@@ -1,81 +1,69 @@
-<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07P8LDZJ5/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41U4BYG3kWL._AA210_.jpg"></div><section class="center">
-            Tygot Adjustable Aluminium Alloy Tripod Stand Holder for Mobile P...<br>Avg. Customer Review<br></section></a><div class="price">
+<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085P2N3R8/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/410b3ttpfAL._AA210_.jpg"></div><section class="center">
+            Huawei Y9s| Extra Rs. 1500 off on exchange | 9 month NCE
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹19,990
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07TCN5VR9/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31FWCV41hJL._AA210_.jpg"></div><section class="center">
+            Boult Audio BassBuds X1 in-Ear Wired Earphones with Mic and 1...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹349
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B086WN8LB4/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41oc1XtI8XL._AA210_.jpg"></div><section class="center">
+            boAt Airdopes 441 TWS Ear-Buds with IWP Technology, Immersive ...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,999
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07LG59NPV/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31NJDBqTXOL._AA210_.jpg"></div><section class="center">
+            Boult Audio ProBass Curve Wireless Neckband Earphones wi...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,199
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07TFW1KML/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41xdQjDRECL._AA210_.jpg"></div><section class="center">
+            Boult Audio BassBuds X1 in-Ear Wired Earphones with Mic and 10...<br>Avg. Customer Review<br></section></a><div class="price">
+₹349
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B086WP5TGR/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41i7N2Ox7zL._AA210_.jpg"></div><section class="center">
+            boAt Airdopes 441 TWS Ear-Buds with IWP Technology, Immersive A...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,999
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B082MDMW3X/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31tqVWFdgcL._AA210_.jpg"></div><section class="center">
             Infinity (JBL) Glide 120 Metal in-Ear Wireless Flex Neckband with Blue...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹1,099
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HXMD4K1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31-Fa3fJMiL._AA210_.jpg"></div><section class="center">
-            Zinq Technologies 1 Meter Micro USB Cable (White)
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹79
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01DEWVZ2C/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31Za9ooooCL._AA210_.jpg"></div><section class="center">
             JBL C100SI In-Ear Deep Bass Headphones with Mic
 
         <br>Avg. Customer Review<br></section></a><div class="price">
 ₹599
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B086WN8LB4/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41oc1XtI8XL._AA210_.jpg"></div><section class="center">
-            boAt Airdopes 441 TWS Ear-Buds with IWP Technology, Immersive ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08BY1G7N3/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41KyL5NkRRL._AA210_.jpg"></div><section class="center">
-            WeCool Moonwalk M1 True Wireless Earbuds (TWS) IPX 5 a...<br>Avg. Customer Review<br></section></a><div class="price">
-₹899
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B082VS5H3Y/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41POjyir4nL._AA210_.jpg"></div><section class="center">
+            boAt Rockerz 255 Pro in-Ear Bluetooth Neckband Earphone wi...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,499
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07DFYSGS3/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/3197Ah2k+FL._AA210_.jpg"></div><section class="center">
             JBL C200SI Super Deep Bass in-Ear Premium Headphones with Mic
 
         <br>Avg. Customer Review<br></section></a><div class="price">
-₹749 - ₹799
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B086WP5TGR/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41i7N2Ox7zL._AA210_.jpg"></div><section class="center">
-            boAt Airdopes 441 TWS Ear-Buds with IWP Technology, Immersive A...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B00SH5JAIS/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41BXnIM2ioL._AA210_.jpg"></div><section class="center">
-            boAt Indestructible 3.5mm Male to Male Gold Plated Connectors, Met...<br>Avg. Customer Review<br></section></a><div class="price">
-₹199
+₹749
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07HHHMWQG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41dTPHU90DL._AA210_.jpg"></div><section class="center">
+            JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker with R...<br>Avg. Customer Review<br></section></a><div class="price">
+₹4,999
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07MK2GHTT/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/413yXgkci6L._AA210_.jpg"></div><section class="center">
+            Boult Audio BassBuds Loop in-Ear Wired Earphones with NO Magnet...<br>Avg. Customer Review<br></section></a><div class="price">
+₹399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08CPRC15N/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41lc2hAfCtL._AA210_.jpg"></div><section class="center">
+            Boult Audio BassBuds Loop in-Ear Wired Earphones with NO Magne...<br>Avg. Customer Review<br></section></a><div class="price">
+₹399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B088YDXJV1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31L71q0nwzL._AA210_.jpg"></div><section class="center">
+            Boult Audio BassBuds Storm-X in-Ear Wired Earphones with Mic an...<br>Avg. Customer Review<br></section></a><div class="price">
+₹349
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07DJ8K2KT/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31eAeTNWtOL._AA210_.jpg"></div><section class="center">
             OnePlus 7T Pro I Lowest Price Ever I Buy Now
 
         <br>Avg. Customer Review<br></section></a><div class="price">
 ₹43,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07WCMQSXB/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41zIrntmjFL._AA210_.jpg"></div><section class="center">
-            Tygot 13 inch Flexible Gorillapod Tripod with Mobile Attachment for ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07MK2H78S/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31n9djMHQgL._AA210_.jpg"></div><section class="center">
+            Boult Audio ProBass Curve Wireless Neckband Earphones wit...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,199
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08K4RDQ71/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/316Y1A3cBNL._AA210_.jpg"></div><section class="center">
             Tukzer Capacitive Stylus Pen for Touch Screens Devices, Fine Poin...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹399
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07HHHMWQG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41dTPHU90DL._AA210_.jpg"></div><section class="center">
-            JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker with R...<br>Avg. Customer Review<br></section></a><div class="price">
-₹4,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B00D75AB6I/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31HMCqHGNpL._AA210_.jpg"></div><section class="center">
-            Sennheiser CX 180 Street II In-Ear Headphone (Black), without Mic
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹699
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07NJBHY6S/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41Bwu-sOPjL._AA210_.jpg"></div><section class="center">
-            Marklif Gorilla Tripod/Mini Tripod 13 inch for Mobile Phone with Holder ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹399
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07ZJBB1GZ/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31vBrsXibRL._AA210_.jpg"></div><section class="center">
-            Zinq Technologies USB Type-C to USB-A 2.0 Mal Ce Cable - 3.2 Fe...<br>Avg. Customer Review<br></section></a><div class="price">
-₹129
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07N42JB4S/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41Fm0YcrDqL._AA210_.jpg"></div><section class="center">
-            Syvo WT 3130 Aluminum Tripod (50-Inch), Universal Lightweight T...<br>Avg. Customer Review<br></section></a><div class="price">
-₹849
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01FVVK9EO/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41GYukas5AL._AA210_.jpg"></div><section class="center">
-            boAt AUX 500 Indestructible Male to Male Metallic Aux Audio Cable wit...<br>Avg. Customer Review<br></section></a><div class="price">
-₹199
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B088MD41XQ/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41GW+tY6ooL._AA210_.jpg"></div><section class="center">
-            Noise Shots NUVO True Wireless Earbuds (Bluetooth v5.0) with HD ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,899
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07B9G75Z9/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41KjdnbtRTL._AA210_.jpg"></div><section class="center">
-            JBL T205BT Pure Bass Wireless Metal Earbud Headphones with Mic
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹1,599
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B081TPVXSG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31PNsvhDRbL._AA210_.jpg"></div><section class="center">
-            Honor AM115 Half in-Ear Earphones with mic (White)
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0719LFLKG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31WNL14JVZL._AA210_.jpg"></div><section class="center">
+            Amazonbasics 5-Way Multi Headphone Splitter, Black(Color ...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹379
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07YFYB8BG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41c-KB33zmL._AA210_.jpg"></div><section class="center">
-            Marklif Adjustable Aluminium Alloy Tripod Stand Holder for Mobile Ph...<br>Avg. Customer Review<br></section></a><div class="price">
-₹399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07LG2CRYC/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/317tNajO-5L._AA210_.jpg"></div><section class="center">
+            Boult Audio AirBass Monopod in-Ear Wireless Bluetooth Earphones wi...<br>Avg. Customer Review<br></section></a><div class="price">
+₹699
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B082VRTF4M/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41HwA-rvmOL._AA210_.jpg"></div><section class="center">
+            boAt Rockerz 255 Pro in-Ear Bluetooth Neckband Earphone wi...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,499
 </div></div></div>
