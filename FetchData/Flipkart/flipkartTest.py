@@ -1,34 +1,53 @@
+import requests
 from bs4 import BeautifulSoup
 import selenium
-from selenium import webdriver 
-from selenium.webdriver.common.by import By 
-from selenium.webdriver.support.ui import WebDriverWait 
-from selenium.webdriver.support import expected_conditions as EC 
-from selenium.common.exceptions import TimeoutException
+import time
+from selenium import webdriver
 
-#option.add_argument(" — incognito")
-browser = webdriver.Chrome(executable_path='C:\\WebDrivers\\chromedriver.exe')
+#---------------------------------product1.txt----------------------------
+url="https://www.flipkart.com/offers-list/big-steals-of-the-week?screen=dynamic&pk=themeViews%3DBSOW-7Days%3ADealcardDT~widgetType%3DdealCard~contentType%3Dneo&wid=4.dealCard.OMU_3&otracker=clp_omu_Big%2BSteals%2Bof%2Bthe%2BWeek_offers-store_3&otracker1=clp_omu_PINNED_neo%2Fmerchandising_Big%2BSteals%2Bof%2Bthe%2BWeek_NA_wc_view-all_3"
+driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
+driver.get(url)
 
-browser.get("https://ravi0818.github.io")
-# Wait 20 seconds for page to load
-timeout = 20
-try:
-	WebDriverWait(browser, timeout).until(EC.visibility_of_element_located((By.TAG_NAME, "table")))
-	print(browser.find_element_by_tag_name('table'))
-except TimeoutException:
-	print("Timed out waiting for page to load")
-	browser.quit()
-#----------
-browser.quit()
+# Give the javascript time to render
+time.sleep(20)
 
+# Now we have the page, let BeautifulSoup do the rest!
+soup = BeautifulSoup(driver.page_source,'html.parser')
 
-
-
-
-
-
-
-
+soup.prettify()
+products=[] #List to store name of the product
+prices=[] #List to store price of the product
+details=[] #List to store rating of the product
+links=[]
+images=[]
+print("test")
+with open("FBSOTW.txt","w",encoding="utf-8",newline="") as dataFile:
+	for a in soup.find_all(class_='_6WQwDJ'):
+		print("test")
+		name=a.find('div', attrs={'class':'_3LU4EM'})
+		price=a.find('div', attrs={'class':'_2tDhp2'})
+		detail=a.find('div', attrs={'class':'_3khuHA'})
+		link=a.get('href')
+		print(link)
+		img=a.find('img').get('src')
+		if name is not None:
+			products.append(name.text)
+			prices.append(price.text)
+			if detail is None:
+				details.append("NA")
+			else:
+				details.append(detail.text)
+		#---------------
+		images.append(img)
+		links.append("https://flipkart.com"+link)
+	#---
+	# print(links)
+	print(len(prices))
+	for x in range(len(products)):
+		dataFile.write("".join(['<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="',links[x],'" target="_blank"><div><img class="center" src="',images[x],'"></div><section class="center">',products[x],'<br>',details[x],'<br>',prices[x],'</section></a></div></div>']))
+#----
+driver.quit()
 
 
 

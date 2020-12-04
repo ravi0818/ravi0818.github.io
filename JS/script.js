@@ -45,16 +45,22 @@ $(function(){
   $("#list").load("Snippets/list.html"); 
 });
 $(function(){
-	$(".data1").load("FetchData/amzBE.txt"); 
+  $("#FDOD").load("FetchData/Flipkart/FDOD.txt"); 
 });
 $(function(){
-	$(".data2").load("FetchData/amzBCA.txt"); 
+  $("#FBSOTW").load("FetchData/Flipkart/FBSOTW.txt"); 
 });
 $(function(){
-	$(".data3").load("FetchData/amzBH.txt"); 
+	$(".data1").load("FetchData/Amazon/amzBE.txt"); 
 });
 $(function(){
-	$(".data4").load("FetchData/amzBB.txt"); 
+	$(".data2").load("FetchData/Amazon/amzBCA.txt"); 
+});
+$(function(){
+	$(".data3").load("FetchData/Amazon/amzBH.txt"); 
+});
+$(function(){
+	$(".data4").load("FetchData/Amazon/amzBB.txt"); 
 });
 $(function(){
 	$(".data5").load(); 

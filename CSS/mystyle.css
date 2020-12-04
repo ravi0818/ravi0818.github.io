@@ -121,6 +121,7 @@ li>a{
 .thumbnail{
 	background-color: white;
 	height: 100%;
+
 }
 .container{
 	background-image: url("");
@@ -166,4 +167,13 @@ li>a{
 .heading{
 	text-align: center;
 	background: grey;
+	width: 100%;
+}
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	/*width: 50%;*/
+	padding: 10px;
+	clear: both;
 }
