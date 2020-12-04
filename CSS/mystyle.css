@@ -62,8 +62,33 @@ ul li::before {
 	margin-left: -1em;
 }
 */
-a{
+a:link {
+	color: green;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
 	color: black;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: underline;
+}
+li>a{
+	color: black;
+	background-color: transparent;
+	text-decoration: none;
 }
 /*-----------------------------Id-------------------------------*/
 #main{

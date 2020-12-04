@@ -4,12 +4,14 @@ import requests
 from bs4 import BeautifulSoup
 import json
 #---------------------------------amz1.txt----------------------------
-url="https://amzn.to/3muga3B"
+url="https://www.amazon.in/gp/goldbox/ref=gbps_ftr_s-5_859c_sort_RELV?gb_f_IN_BB_Deals_PC_Al_Customers=dealStates:AVAILABLE%252CWAITLIST%252CWAITLISTFULL%252CUPCOMING,dealTypes:DEAL_OF_THE_DAY,page:3,sortOrder:BY_SCORE,MARKETING_ID:Marvolo_gaunt%252CGIF20_BB_GW%252CBB_JUP20,dealsPerPage:6&pf_rd_p=daa47517-5bef-4e97-b82e-ec3e7d37859c&pf_rd_s=slot-5&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=NGG03KPEJVEX6YBQ3XV5&gb_f_c2xvdC01=dealTypes:LIGHTNING_DEAL%252CBEST_DEAL,includedAccessTypes:KINDLE_CONTENT_DEAL,sortOrder:BY_SCORE&ie=UTF8"
 r=requests.get(url)
 #writer=csv.writer(dataFile)
 htmlcontent=r.content
 soup=BeautifulSoup(htmlcontent,'html.parser')
 soup.prettify()
+s=soup.find_all(id='100_dealView_0')
+print(s)
 #soup.encode("utf-8")
 products=[] #List to store name of the product
 prices=[] #List to store price of the product
@@ -17,25 +19,8 @@ ratings=[] #List to store rating of the product
 links=[]
 images=[]
 with open("amz1.txt","w",encoding="utf-8",newline="") as dataFile:
-	#for a in soup.find_all('div',attrs={'class':'sg-col-inner'}):
-	for a in soup.find_all('div',attrs={'class':'s-asin'}):
-		name=a.find('h2')
-		price=a.find('span', attrs={'class':'a-offscreen'})
-		rating=a.find('span', attrs={'class':'a-icon-alt'})
-		link=name.find('a').get('href')
-		link=link.split("dp/")
-		link=link[1]
-		link=link[:10]
-		links.append("https://www.amazon.in/gp/product/"+link+"/?tag=ravi18-21")
-		#---------
-		# if name is not None:
-		products.append(name.text)
-		#-------------------------------
-		# if price is not None:
-		prices.append(price.text)
-		#--------------------------------
-		# if rating is not None:
-		ratings.append(rating.text)
+	for a in soup.find_all('div',attrs={'class':'a-section dealContainer'}):
+		print(a.find('a'))
 
 	#---------------------------
 	dataFile.write('<table>')

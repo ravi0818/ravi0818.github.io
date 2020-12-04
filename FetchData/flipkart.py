@@ -108,3 +108,35 @@ with open("products3.txt","w",encoding="utf-8",newline="") as dataFile:
 	#---
 	dataFile.write('</tbody>')
 	dataFile.write('</table>')
+
+#--------------------------------------TopM.txt-------------------------------------------
+url="https://www.flipkart.com/search?q=camera&sid=jek%2Cp31%2Ctrv&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_6_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_6_na_na_na&as-pos=2&as-type=RECENT&suggestionId=camera%7CDSLR+Camera&requestId=fed848a8-0861-43df-8cc8-8ddb066d52ad&as-searchtext=camera"
+r=requests.get(url)
+#writer=csv.writer(dataFile)
+htmlcontent=r.content
+soup=BeautifulSoup(htmlcontent,'html.parser')
+soup.prettify()
+products=[] #List to store name of the product
+prices=[] #List to store price of the product
+details=[] #List to store rating of the product
+links=[]
+images=[]
+with open("FktTopM.txt","w",encoding="utf-8",newline="") as dataFile:
+	for a in soup.find_all(class_='_1FNrEw'):
+		name=a.find('div', attrs={'class':'_3LU4EM'})
+		price=a.find('div', attrs={'class':'_3khuHA'})
+		detail=a.find('div', attrs={'class':'_2tDhp2'})
+		link=a.find('a',attrs={'class':'_6WQwDJ'}).get('href')
+		img=a.find('img').get("src")
+		#print(rating)
+		if rating==None:
+			continue
+		#-------------
+		products.append(name.text)
+		prices.append(price.text)
+		ratings.append(rating.text)
+		links.append("https://flipkart.com"+link)
+	#---
+	for x in range(len(products)):
+		dataFile.write("".join(['<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="',link[x],'" target="_blank"><div><img src="',images[x],'"></div><div>',products[x],'</div><div>',details[x],'</div><div>',Prices[x],'</div></a></div></div>']))
+
