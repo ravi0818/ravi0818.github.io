@@ -1,1 +1,0 @@
-<table><thead><tr><th>Product Name</th><th>Price</th><th>Rating</th><th>Link</td></tr></thead><tbody></tbody></table>

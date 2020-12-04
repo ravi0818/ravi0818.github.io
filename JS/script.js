@@ -51,6 +51,9 @@ $(function(){
   $("#FBSOTW").load("FetchData/Flipkart/FBSOTW.txt"); 
 });
 $(function(){
+  $("#ATDH").load("FetchData/Amazon/amzTDH.txt"); 
+});
+$(function(){
 	$(".data1").load("FetchData/Amazon/amzBE.txt"); 
 });
 $(function(){
