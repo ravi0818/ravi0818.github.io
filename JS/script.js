@@ -68,12 +68,7 @@ $(function(){
 $(function(){
 	$(".data4").load("FetchData/Amazon/amzBB.txt"); 
 });
-$(function(){
-	$(".data5").load(); 
-});
-$(function(){
-	$(".data6").load(); 
-});
+
 
 function currentTime() {
   var date = new Date(); /* creating object of Date class */
