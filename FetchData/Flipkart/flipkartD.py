@@ -7,7 +7,7 @@ from selenium import webdriver
 url="https://www.flipkart.com/dotd-store?=Web&wid=2.dealCard.OMU_1&otracker=clp_omu_Deals%2Bof%2Bthe%2BDay_offers-store_1&otracker1=clp_omu_PINNED_neo%2Fmerchandising_Deals%2Bof%2Bthe%2BDay_NA_wc_view-all_1"
 driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
 driver.get(url)
-
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 # Give the javascript time to render
 time.sleep(20)
 
@@ -47,7 +47,7 @@ with open("FDOD.txt","w",encoding="utf-8",newline="") as dataFile:
 url="https://www.flipkart.com/offers-list/big-steals-of-the-week?screen=dynamic&pk=themeViews%3DBSOW-7Days%3ADealcardDT~widgetType%3DdealCard~contentType%3Dneo&wid=4.dealCard.OMU_3&otracker=clp_omu_Big%2BSteals%2Bof%2Bthe%2BWeek_offers-store_3&otracker1=clp_omu_PINNED_neo%2Fmerchandising_Big%2BSteals%2Bof%2Bthe%2BWeek_NA_wc_view-all_3"
 driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
 driver.get(url)
-
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 # Give the javascript time to render
 time.sleep(20)
 
