@@ -9,6 +9,7 @@ driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
 driver.get(url)
 
 # Give the javascript time to render
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 time.sleep(20)
 
 # Now we have the page, let BeautifulSoup do the rest!
