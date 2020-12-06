@@ -9,8 +9,9 @@ driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
 driver.get(url)
 
 # Give the javascript time to render
+time.sleep(10)
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-time.sleep(20)
+time.sleep(10)
 
 # Now we have the page, let BeautifulSoup do the rest!
 soup = BeautifulSoup(driver.page_source,'html.parser')
@@ -66,9 +67,10 @@ with open("ATDH.txt","w",encoding="utf-8",newline="") as dataFile:
 url="https://www.amazon.in/gp/goldbox/ref=gbps_ftr_s-5_859c_wht_97641903?gb_f_c2xvdC01=dealTypes:LIGHTNING_DEAL%252CBEST_DEAL,includedAccessTypes:KINDLE_CONTENT_DEAL,sortOrder:BY_SCORE,enforcedCategories:976419031&pf_rd_p=daa47517-5bef-4e97-b82e-ec3e7d37859c&pf_rd_s=slot-5&pf_rd_t=701&pf_rd_i=gb_main&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=78QH33Z82NW25NM35BD8&ie=UTF8"
 driver = webdriver.Chrome('C:/WebDrivers/chromedriver.exe')
 driver.get(url)
-
+time.sleep(10)
+driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 # Give the javascript time to render
-time.sleep(20)
+time.sleep(10)
 
 # Now we have the page, let BeautifulSoup do the rest!
 soup = BeautifulSoup(driver.page_source,'html.parser')
