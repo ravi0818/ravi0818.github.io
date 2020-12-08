@@ -31,9 +31,13 @@ with open("FDOD.txt","w",encoding="utf-8",newline="") as dataFile:
 		if name is not None:
 			products.append(name.text)
 			prices.append(price.text)
-			details.append(detail.text)
-			images.append(img)
-			links.append("https://flipkart.com"+link)
+			if detail is None:
+				details.append("NA")
+			else:
+				details.append(detail.text)
+		#---------------
+		images.append(img)
+		links.append("https://flipkart.com"+link)
 	#---
 	# print(links)
 	print(len(prices))
