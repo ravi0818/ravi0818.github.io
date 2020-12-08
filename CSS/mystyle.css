@@ -114,6 +114,9 @@ li>a{
 #end{
 	border: 1px solid black;
 }
+#AD{
+	padding-bottom: 30px;
+}
 /*-----------------------------Class-------------------------------*/
 .caption{
 	text-align: center;
@@ -180,7 +183,4 @@ li>a{
 .price{
 	padding: 10px;
 	font-weight: bold;
-}
-.F_AD{
-	padding: 10px;
 }
