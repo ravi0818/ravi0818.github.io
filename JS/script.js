@@ -48,6 +48,9 @@ $(function(){
   $("#AD").load("Snippets/F_AD.html"); 
 });
 $(function(){
+  $("#TD").load("Snippets/TD.html"); 
+});
+$(function(){
   $("#FDOD").load("FetchData/Flipkart/FDOD.txt"); 
 });
 $(function(){
