@@ -1,123 +1,119 @@
-<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07CKDTBSL/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/416MYD-G5hL._AA210_.jpg"></div><section class="center">
-            Strontium Nitro A1 32GB Micro SDHC Memory Card 100MB/s A1 ...<br>Avg. Customer Review<br></section></a><div class="price">
+<div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07P8LDZJ5/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41U4BYG3kWL._AA210_.jpg"></div><section class="center">
+            Tygot Adjustable Aluminium Alloy Tripod Stand Holder for Mobile P...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹349
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07W7Z6DVL/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51UH57Cs5hL._AA210_.jpg"></div><section class="center">
-            Infinity (JBL) Fuze 100 Deep Bass Dual Equalizer IPX7 Waterproof ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,299
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B082VRQFKG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41I22cagYeL._AA210_.jpg"></div><section class="center">
-            boAt Rockerz 255 Pro in-Ear Bluetooth Neckband Earphone wit...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,499
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08D76XV4R/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/319WkzKXznL._AA210_.jpg"></div><section class="center">
-            pTron Tangent Beats Magnetic in-Ear Wireless Bluetooth Headphon...<br>Avg. Customer Review<br></section></a><div class="price">
-₹799
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07R7T6ZLW/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31xYXjduCRL._AA210_.jpg"></div><section class="center">
-            Blaupunkt EM10 Wired Earphone with Super High Bass in-Line Mic...<br>Avg. Customer Review<br></section></a><div class="price">
-₹499
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07W5MYRF4/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41K1zoJn23L._AA210_.jpg"></div><section class="center">
-            Infinity (JBL) Glide 500 Wireless Headphones with 20 Hours Playt...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,599
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07FD9G2WH/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41hIk6rKyHL._AA210_.jpg"></div><section class="center">
-            Ant Audio W56 Wired Metal in Ear Stereo Bass Headphone (Black) 
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01DEWVZ2C/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31Za9ooooCL._AA210_.jpg"></div><section class="center">
+            JBL C100SI In-Ear Deep Bass Headphones with Mic
 
         <br>Avg. Customer Review<br></section></a><div class="price">
-₹449
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085W7FPY1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41IaIA-PonL._AA210_.jpg"></div><section class="center">
+₹599
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085W8CFLH/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41xkzO-wwoL._AA210_.jpg"></div><section class="center">
+            pTron Tangent Lite Magnetic in-Ear Wireless Bluetooth Headphones ...<br>Avg. Customer Review<br></section></a><div class="price">
+₹599
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07MZ5DZYY/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/411kkBSLXdL._AA210_.jpg"></div><section class="center">
+            Zoook Rocker Thunder Plus 40 watts Karaoke Bluetooth Party S...<br>Avg. Customer Review<br></section></a><div class="price">
+₹3,899
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07WCMQSXB/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41zIrntmjFL._AA210_.jpg"></div><section class="center">
+            Tygot 13 inch Flexible Gorillapod Tripod with Mobile Attachment for ...<br>Avg. Customer Review<br></section></a><div class="price">
+₹399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08D75R3Z1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/413VD0HrrlL._AA210_.jpg"></div><section class="center">
+            pTron Boom Ultima 4D Dual Driver in-Ear Wired Headphones with M...<br>Avg. Customer Review<br></section></a><div class="price">
+₹549
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B082MDMW3X/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31tqVWFdgcL._AA210_.jpg"></div><section class="center">
+            Infinity (JBL) Glide 120 Metal in-Ear Wireless Flex Neckband with Blue...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,099
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07R2BNDMH/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51FmVst5-oL._AA210_.jpg"></div><section class="center">
+            OneOdio Pro-10 Over Ear DJ Headphone?BLACK?
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹1,950
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B00SH5JAIS/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41BXnIM2ioL._AA210_.jpg"></div><section class="center">
+            boAt Indestructible 3.5mm Male to Male Gold Plated Connectors, Met...<br>Avg. Customer Review<br></section></a><div class="price">
+₹199
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07WSHWNH8/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41ImsZy3u5L._AA210_.jpg"></div><section class="center">
+            pTron Bassbuds in-Ear True Wireless Bluetooth Headphones ...<br>Avg. Customer Review<br></section></a><div class="price">
+₹999
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07S13PJ3W/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31+F7snnBEL._AA210_.jpg"></div><section class="center">
+            Sony WI-C200 Wireless In-Ear Headphones with 15 Hours Batter...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,699
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B081TPVXSG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31PNsvhDRbL._AA210_.jpg"></div><section class="center">
+            Honor AM115 Half in-Ear Earphones with mic (White)
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹379
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07HHHMWQG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41dTPHU90DL._AA210_.jpg"></div><section class="center">
+            JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker with R...<br>Avg. Customer Review<br></section></a><div class="price">
+₹4,999
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07B9G75Z9/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41KjdnbtRTL._AA210_.jpg"></div><section class="center">
+            JBL T205BT Pure Bass Wireless Metal Earbud Headphones with Mic
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹1,599
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085W7JMTB/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41pOcWHbDnL._AA210_.jpg"></div><section class="center">
+            pTron Tangent Lite Magnetic in-Ear Wireless Bluetooth Headphones ...<br>Avg. Customer Review<br></section></a><div class="price">
+₹599
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B081QXQVFM/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31B9gqkqxmL._AA210_.jpg"></div><section class="center">
+            pTron Bassbuds Lite V2 in-Ear True Wireless Bluetooth Headphones (...<br>Avg. Customer Review<br></section></a><div class="price">
+₹899
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07D4CN9T7/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41+Qa1BYTRL._AA210_.jpg"></div><section class="center">
+            pTron HBE6 Headphone (High Bass Earphones) Metal in-Ear Wired H...<br>Avg. Customer Review<br></section></a><div class="price">
+₹199
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B081QWM3WN/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41uyyj2G3cL._AA210_.jpg"></div><section class="center">
+            pTron Bassbuds Pro in-Ear True Wireless Stereo Bluetooth Headp...<br>Avg. Customer Review<br></section></a><div class="price">
+₹1,299
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07N42JB4S/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41Fm0YcrDqL._AA210_.jpg"></div><section class="center">
+            Syvo WT 3130 Aluminum Tripod (50-Inch), Universal Lightweight T...<br>Avg. Customer Review<br></section></a><div class="price">
+₹849
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07ZT82V83/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/414iF8WFNEL._AA210_.jpg"></div><section class="center">
+            SHYLOC 18 Inches Big LED Ring Light for Photo and Video wit
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹1,099
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HXMD4K1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31-Fa3fJMiL._AA210_.jpg"></div><section class="center">
+            Zinq Technologies 1 Meter Micro USB Cable (White)
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹79
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07ZJBB1GZ/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31vBrsXibRL._AA210_.jpg"></div><section class="center">
+            Zinq Technologies USB Type-C to USB-A 2.0 Mal Ce Cable - 3.2 Fe...<br>Avg. Customer Review<br></section></a><div class="price">
+₹129
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07DFYSGS3/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/3197Ah2k+FL._AA210_.jpg"></div><section class="center">
+            JBL C200SI Super Deep Bass in-Ear Premium Headphones with Mic
+
+        <br>Avg. Customer Review<br></section></a><div class="price">
+₹699 - ₹799
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B00NTCH52W/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/518Tj7rKWCL._AA210_.jpg"></div><section class="center">
+            Amazonbasics Aa Performance Alkaline Non-Rechargeable Batter...<br>Avg. Customer Review<br></section></a><div class="price">
+₹549
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07WTX73MB/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31Od2zSymZL._AA210_.jpg"></div><section class="center">
+            Sony WI-XB400 Wireless Extra Bass in-Ear Headphones with 15...<br>Avg. Customer Review<br></section></a><div class="price">
+₹2,990
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08BY1G7N3/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41KyL5NkRRL._AA210_.jpg"></div><section class="center">
+            WeCool Moonwalk M1 True Wireless Earbuds (TWS) IPX 5 a...<br>Avg. Customer Review<br></section></a><div class="price">
+₹799
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085W7CC5Z/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41CqAoZGSVL._AA210_.jpg"></div><section class="center">
             pTron Tangent Lite Magnetic in-Ear Wireless Bluetooth Headphones w...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹599
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07PZBM5Z3/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/413gWEVfJqL._AA210_.jpg"></div><section class="center">
-            Xmate Mettle USB Type C Cable Fast Charging Cable 5 ft USB A t...<br>Avg. Customer Review<br></section></a><div class="price">
-₹249
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08CVR33TK/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41W8sb0n2KL._AA210_.jpg"></div><section class="center">
-            boAt Rockerz 295v2 Wireless Neckband with BT v5.0, IPX7 Wat...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,899
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0031YLTSY/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51DNc7mlc5L._AA210_.jpg"></div><section class="center">
-            Duracell Ultra AAA Rechargeable batteries - pack of 4 - 900 mAh
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01FVVK9EO/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41GYukas5AL._AA210_.jpg"></div><section class="center">
+            boAt AUX 500 Indestructible Male to Male Metallic Aux Audio Cable wit...<br>Avg. Customer Review<br></section></a><div class="price">
+₹199
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B088TB7SCD/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31jgRF5y01L._AA210_.jpg"></div><section class="center">
+            BluArmor Action-cam Compatible Chin Mount for Motorcycle Hel
 
         <br>Avg. Customer Review<br></section></a><div class="price">
-₹759
+₹359
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07HCDJ2CH/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41g82y66LkL._AA210_.jpg"></div><section class="center">
+            WeCool Mr.Bass W001 Snug Fit Metallic in Ear Earphones for Mobi...<br>Avg. Customer Review<br></section></a><div class="price">
+₹279
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07JPLHQ94/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41yEgUK6MeL._AA210_.jpg"></div><section class="center">
+            PTron HBE6 (High Bass Earphones) Metal in-Ear Wired He...<br>Avg. Customer Review<br></section></a><div class="price">
+₹199
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07YFYB8BG/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41c-KB33zmL._AA210_.jpg"></div><section class="center">
+            Marklif Adjustable Aluminium Alloy Tripod Stand Holder for Mobile Ph...<br>Avg. Customer Review<br></section></a><div class="price">
+₹349
 </div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B088ZFJY82/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41pmcRIe45L._AA210_.jpg"></div><section class="center">
             ELV Aluminium Adjustable Mobile Phone Foldable Holder Stand Do...<br>Avg. Customer Review<br></section></a><div class="price">
 ₹319
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07YC3BLF1/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/412l07w788L._AA210_.jpg"></div><section class="center">
-            OneOdio Pro-10 Over Ear DJ Headphone?GRAY?
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹2,000
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B085YCQRYM/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41A8Dj-be8L._AA210_.jpg"></div><section class="center">
-            Mi Outdoor Bluetooth Speaker (5W) Upto 20 Hours of Battery Life, Dyn...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,199
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0814NK75V/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41JLZUtlfyL._AA210_.jpg"></div><section class="center">
-            WeCool Mr.Bass W010 Metallic Type C Earphones for Rich Bass ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹649
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0873JTWQW/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41szXNJMlHL._AA210_.jpg"></div><section class="center">
-            Infinity(JBL) Glide 510 On-Ear Wireless Headphone with Mic, 72...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,799
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07WCTP58X/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41m2wrWzsHL._AA210_.jpg"></div><section class="center">
-            Infinity(JBL) Glide N100 Wireless Neckband with Deep Bass Dual E...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,099
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B089Z8WG3H/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41ikhDghjpL._AA210_.jpg"></div><section class="center">
-            Wipro Flex Box with universal socket and 5 meter long cord
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹289
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B00VRBG1HC/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/419kz2aT0nL._AA210_.jpg"></div><section class="center">
-            ELV FPStyli-2Gen-Blue Fine Point 2nd Gen Stylus Pen (Blue)
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹299
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08CZSTZHB/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31iq7QPN9cL._AA210_.jpg"></div><section class="center">
-            Ambrane 20000mAh Li-Polymer Powerbank with Fast Charging & ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,099
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HKY84KL/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41NGH7TE9yL._AA210_.jpg"></div><section class="center">
-            pTron Bassfest Plus In-Ear Magnetic Wireless Headphones w...<br>Avg. Customer Review<br></section></a><div class="price">
-₹549
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07FDJXL1N/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/412apzY-rIL._AA210_.jpg"></div><section class="center">
-            Ant Audio W56 Wired Metal in Ear Stereo Bass Headphone (Red)
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹449
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08D74F7YC/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31GohUTv57L._AA210_.jpg"></div><section class="center">
-            Photron STEDY PRO 550 Tripod with Mobile Holder for Smart Phon...<br>Avg. Customer Review<br></section></a><div class="price">
-₹945
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08B42LWKN/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51xLfqoOOVL._AA210_.jpg"></div><section class="center">
-            OnePlus Y Series 80 cm (32 inches) HD Ready LED Smart Android TV ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹14,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08B42HNH7/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51pDhpStlvL._AA210_.jpg"></div><section class="center">
-            OnePlus Y Series 108 cm (43 inches) Full HD LED Smart Androi...<br>Avg. Customer Review<br></section></a><div class="price">
-₹24,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08K8M3RBX/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/31eFhasKpzL._AA210_.jpg"></div><section class="center">
-            Noise Tune Sport 2 In-Ear Wireless Bluetooth Earphones with Deep B...<br>Avg. Customer Review<br></section></a><div class="price">
-₹899
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08FB5FKSQ/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41BAar0WRSL._AA210_.jpg"></div><section class="center">
-            Noise Tune Active Bluetooth Wireless Headset with Upto 10 H...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,199
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07BS4TJ43/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51UHoxzInpL._AA210_.jpg"></div><section class="center">
-            Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is...<br>Avg. Customer Review<br></section></a><div class="price">
-₹27,990
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0874DQRLT/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41aty5tXB-L._AA210_.jpg"></div><section class="center">
-            Noise Shots X5 PRO True Wireless Earbuds Powered by Qualcomm a...<br>Avg. Customer Review<br></section></a><div class="price">
-₹3,299
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01DJJVGBA/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51Ol9YwvEyL._AA210_.jpg"></div><section class="center">
-            Duracell Alkaline AAA Battery with Duralock Technology - 12 Pieces
-
-        <br>Avg. Customer Review<br></section></a><div class="price">
-₹429
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HHB5WHQ/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/61JxrSnk8vL._AA210_.jpg"></div><section class="center">
-            Noise Vibe 5W Portable Wireless Bluetooth Speaker with in-built Ca...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,399
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HH8PC23/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/51nyU6psQpL._AA210_.jpg"></div><section class="center">
-            Noise Vibe 5W Portable Wireless Bluetooth Speaker with in-built Cal...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,399
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B0834TJ9J5/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41Y+eTvBY6L._AA210_.jpg"></div><section class="center">
-            Saregama Carvaan Earphones GX01 with Mic - Designed for Aug...<br>Avg. Customer Review<br></section></a><div class="price">
-₹399
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07MFKXPL9/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41CxkLREcnL._AA210_.jpg"></div><section class="center">
-            Germany's Blaupunkt BTW01 True Wireless Earbuds with 30 Hours ...<br>Avg. Customer Review<br></section></a><div class="price">
-₹3,999
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B07XTMFXPL/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/315sscs7g+L._AA210_.jpg"></div><section class="center">
-            Portronics Adapto 648 POR-648, 2.4A Quick Charging Dual USB P...<br>Avg. Customer Review<br></section></a><div class="price">
-₹229
-</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B08HH5L7DX/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41P2+QtIgYL._AA210_.jpg"></div><section class="center">
-            Noise Vibe 5W Portable Wireless Bluetooth Speaker with in-built Cal...<br>Avg. Customer Review<br></section></a><div class="price">
-₹1,399
+</div></div></div><div class="col-lg-2 col-md-4 col-sm-4"><div class="thumbnail"><a href="https://www.amazon.in/gp/product/B01FVWLT9M/?tag=ravi18-21" target="_blank"><div><img class="center" src="https://m.media-amazon.com/images/I/41jnrrrxWYL._AA210_.jpg"></div><section class="center">
+            boAt Indestructible 3.5mm Male to Male Metallic Aux Audio Cable wit...<br>Avg. Customer Review<br></section></a><div class="price">
+₹199
 </div></div></div>
